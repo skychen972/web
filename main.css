@@ -1,0 +1,26 @@
+/* 
+Sky Chen 
+IntroCS pd7 sec11
+HW05 -- Stuylin'
+2021-02-11 
+*/
+
+body { 
+background-color: lightsteelblue;
+}
+
+p {
+    font: italic small-caps bold 16px/2 cursive 
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
