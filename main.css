@@ -9,8 +9,16 @@ body {
 background-color: lightsteelblue;
 }
 
+ul {
+  font: italic small-caps bold 16px/2 cursive  
+}
+
 p {
-    font: italic small-caps bold 16px/2 cursive 
+    font: italic small-caps bold 16px/2 cursive
+}
+
+p { 
+color: red;
 }
 
 h1 {
